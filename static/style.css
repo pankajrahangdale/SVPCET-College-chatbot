@@ -1,0 +1,237 @@
+.{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    width: 700px;
+}
+
+body {
+       
+     
+      background:transparent;
+
+}
+.back1
+{
+    padding: 5px 15px;
+    background-color: white;
+}
+.chatbox{
+    width: 500px;
+    min-width: 390px;
+    height: 100%;
+    background: rgb(39, 4, 236);
+    margin: 20px auto;
+    border-width: 1px;
+    border: solid;
+    border-color: black;
+    border-color: black;
+    border-right-width: 10px;
+    
+    
+    
+}
+.header {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(32, 7, 90);
+    
+    
+}
+.suggestions button{
+    width: 100%;
+    height: 20%;
+    margin: 1%;
+    background-color: lightblue;
+    border: mediumblue;
+
+}
+
+    
+}
+.header .header-back {
+  width: 100%;
+  height: 15%;
+
+}
+.chatlogs{
+    padding: 10px;
+    width: 96%;
+    height: 75%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background:white;
+    border-top-color: black;
+    
+}
+.chatlogs::-weblit-scrollbar {
+    
+    width: 10px;
+}
+.chatlogs::-weblit-scrollbar-thumb {
+
+    border-radius: 5px;
+    background-color: rgba(0,0 green,0 blue, 1alpha);
+}
+
+.chat{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    margin-bottom: 20px;
+
+    
+}
+.out{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    text-align: end;
+
+    width: wrap;
+    padding: 15px;
+    margin: 5px 10px 0;
+    
+    border-radius: 10px;
+    color: orange;
+    font-size: 20px;
+   overflow-wrap: break-word;
+
+   background: rgb(8, 125, 235);
+   overflow-x: hidden;
+   overflow-y: hidden;
+   text-align: right;
+        
+    
+
+    
+}
+.out1{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    background-color: green;
+
+    width: wrap;
+    padding: 15px;
+    margin: 5px 10px 0;
+    
+    border-radius: 10px;
+    color: orange;
+    font-size: 20px;
+   overflow-wrap: break-word;
+
+   background: rgb(8, 125, 235);
+   overflow-x: hidden;
+   overflow-y: hidden;
+   text-align: left;
+   text-align: end;
+   
+    
+}
+
+.chat .user-photo {
+    width: 80px;
+    height: 80px;
+    background-position-x: 30px;
+    background: #ccc;
+    border-radius: 50%;
+   
+
+}
+.header .user-photo {
+    
+    background: #ccc;
+    
+    width: 20%;
+    height: 100%;
+    border-radius: 50%;
+    
+   
+
+}
+.chat .user-photo img{
+    width: 100%;
+
+}
+
+
+.chat .user-message{
+    width: fit-content;
+    padding: 15px;
+    margin: 5px 10px 0;
+    
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+   overflow-wrap: break-word;
+   
+}
+.self .user-message{
+    background: springgreen;
+    order: -1;
+    overflow: hidden;
+    
+}
+.friend .user-message{
+    background: rgb(8, 125, 235);
+    
+}
+.chat-form {
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.chat-form textarea {
+    background: #fbfbfb;
+    width: 75%;
+    height: 50px;
+    border: 2px solid #eeeeee;
+    border-radius: 3px;
+    resize: none;
+    padding: 10px;
+    font-size: 18px;
+    color: #333333;
+    margin-left: 10px;
+
+}
+.chat-form textarea: :focus{
+    background: #ffffff;
+}
+.chat-form textarea::-weblit-scrollbar {
+    width: 10px;
+}
+.chat-form textarea::-weblit-scrollbar-thumb {
+
+    border-radius: 5px;
+    background-color: rgba(0,0 green,0 blue, 1alpha);
+}
+.chat-form button {
+    padding: 5px 15px;
+    background: rgb(240, 4, 4);
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    margin: 0 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 0 3px 0 #0eb2c1;
+
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}
+.chat-form button: :hover {
+    background: #13c8d9
+}
+.chatbox {
+    background: aqua;
+}
+.s-b button{
+    background-color: mediumturquoise;
+    border: red;
+}

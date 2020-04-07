@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+
+	<category>
+      <pattern>FIRST YEAR BE ADMISSIONS</pattern>
+      <template>
+		
+			Click on this link to view the guidelines of First Year BE Admissions: 
+			<![CDATA[
+				
+			<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#6622955gdp">https://www.stvincentngp.edu.in/admission-2/#6622955gdp</a>
+			]]>
+	  </template>
+    </category>
+
+    <category>
+      <pattern>ADMISSIONS</pattern>
+      <template>
+      	
+			1.Click on this link to view the guidelines of First Year BE Admissions: <br/>
+			<![CDATA[ 
+				
+			<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#6622955gdp">https://www.stvincentngp.edu.in/admission-2/#6622955gdp</a>
+			]]>
+
+			2.Click on this link to view the guidelines of Direct 2nd Year BE Admissions: <br/>
+      	
+      	<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-2">https://www.stvincentngp.edu.in/admission-2/#tab-id-2</a>	
+		]]>
+
+			3.Click on this link to view the guidelines of M Tech Admissions:
+      	<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-3">https://www.stvincentngp.edu.in/admission-2/#tab-id-3</a>	
+		]]>
+
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>ELIGIBILITY FIRST YEAR BE</pattern>
+      <template>
+      	Click on this link to view the eligibility criteria to First Year BE Admissions : 
+		
+			<![CDATA[
+
+			<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#27870belim">https://www.stvincentngp.edu.in/admission-2/#27870belim</a>
+			
+			]]>
+		
+	  </template>
+    </category>
+
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION FIRST YEAR BE</pattern>
+      <template>
+      	Click on this link to view the seat distribution for  First Year BE Admissions : 
+      	<![CDATA[
+
+			<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-1">https://www.stvincentngp.edu.in/admission-2/#tab-id-1</a>
+			
+		]]>
+	  </template>
+    </category>
+
+	<category>
+      <pattern>DOCUMENTS FOR ADMISSION IN FIRST YEAR BE</pattern>
+      <template>
+      	Please goto this link to view the list of documents for First Year BE Admissions :
+      
+			<![CDATA[
+
+			<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-1">https://www.stvincentngp.edu.in/admission-2/#tab-id-1</a>
+			
+		]]>
+		
+	  </template>
+    </category>
+
+	<category>
+      <pattern>FEE STRUCTURE FIRST YEAR BE</pattern>
+      <template>
+      	Please goto this link to view the fee structure required for First Year BE Admissions :
+      	<![CDATA[
+
+			<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#e92489ft10">https://www.stvincentngp.edu.in/admission-2/#e92489ft10</a>
+			
+		]]>
+		
+			
+			
+			
+	  </template>
+    </category>
+
+	<category>
+      <pattern>ELIGIBILITY ADMISSION DIRECT SECOND YEAR BE</pattern>
+      <template>
+      	Click on this link to view the eligibility criteria to Direct Second Year BE Admissions1 : 
+		<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-2">https://www.stvincentngp.edu.in/admission-2/#tab-id-2</a>	
+		]]>
+	  </template>
+    </category>
+
+	<category>
+      <pattern>DOCUMENTS ADMISSION DIRECT SECOND YEAR BE</pattern>
+      <template>
+      	Click on this link to view the guidelines of Direct 2nd Year BE Admissions: 
+      	
+      	<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-2">https://www.stvincentngp.edu.in/admission-2/#tab-id-2</a>	
+		]]>
+		
+			
+		
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE DIRECT SECOND YEAR BE</pattern>
+      <template>
+      	Click on this link to view the fee structure for  Direct Second Year BE Admissions:
+		<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#8f7c2e3f5p">https://www.stvincentngp.edu.in/admission-2/#8f7c2e3f5p</a>	
+		]]>
+
+	  </template>
+    </category>
+
+	<category>
+      <pattern> MTECH ADMISSION</pattern>
+      <template>
+      	Click on this link to view the guidelines of M Tech Admissions:
+      	<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-3">https://www.stvincentngp.edu.in/admission-2/#tab-id-3</a>	
+		]]>
+	  </template>
+    </category>
+    
+	
+
+	<category>
+      <pattern>DOCUMENTS FOR MTECH</pattern>
+      <template>
+      	Click on this link to view the documents required for M Tech Admissions :
+      	<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-3">https://www.stvincentngp.edu.in/admission-2/#tab-id-3</a>	
+		]]>
+	  </template>
+    </category>
+
+	<category>
+      <pattern>FEE STRUCTURE MTECH</pattern>
+      <template>
+
+			Click on this link to view the fee structure for MTech Admissions :
+      		<![CDATA[
+		<a target="_blank" href="https://www.stvincentngp.edu.in/admission-2/#tab-id-3">https://www.stvincentngp.edu.in/admission-2/#tab-id-3</a>	
+		]]>
+	  </template>
+    </category>
+	
+	
+    <category>
+      <pattern>IS COLLEGE AUTONOMUS</pattern>
+      <template>
+		We are into the process probably this year we will get it.
+			
+		
+	  </template>
+    </category>
+    <category>
+      <pattern>WHICH BRANCH IS BEST </pattern>
+      <template>
+		
+			All branches are good but it depends on students interset to make it better.
+			
+		
+	  </template>
+    </category>
+    <category>
+      <pattern>BRANCHES AVAILABLE IN OUR COLLEGE </pattern>
+      <template>
+		
+			Information Technology, Computer Engginering, Electronics and Telecommunication Engg., Civil Engineering, Electrical Engineering, Mechanical Enginnering
+			
+		
+	  </template>
+    </category>
+
+    <category>
+      <pattern>BRANCHES OFFERED </pattern>
+      <template>
+		
+			Information Technology, Computer Engginering, Electronics and Telecommunication Engg., Civil Engineering, Electrical Engineering, Mechanical Enginnering
+			
+		
+	  </template>
+    </category>
+    <category>
+      <pattern>DO YOU HAVE BUS FACILITIES FROM CITY</pattern>
+      <template>
+		
+			Yes
+			
+		
+	  </template>
+    </category>
+
+     <category>
+      <pattern>DO COLLEGE HAVE BUS FACILITIES </pattern>
+      <template>
+		
+			Yes
+			
+		
+	  </template>
+    </category>
+
+     <category>
+      <pattern>ARE DEPARTMENT NBA ACCREDITED</pattern>
+      <template>
+		
+			Yes * (CE and EE) other Branches are in process
+			
+		
+	  </template>
+    </category>
+
+    <category>
+      <pattern>ADMISSION CONTACT NO.</pattern>
+      <template>
+	You can contact on this numbers for any query: 7743979315 / 8308831248
+			
+		
+	  </template>
+    </category>
+
+    <category>
+      <pattern>COLLEGE AFFILIATION TO WHICH UNIVERSITY</pattern>
+      <template>
+      	
+		
+			RTM Nagpur University
+			
+		
+	  </template>
+    </category>
+
+    <category>
+      <pattern>COLLEGE LOCATION</pattern>
+      <template>
+      	Link for google maps:
+      		<![CDATA[
+
+			<a target="_blank" href="https://www.google.com/maps/place/St.+Vincent+Palloti+College+of+Engineering+and+Technology/@21.0046708,79.0477332,15z/data=!4m5!3m4!1s0x0:0x51964eb66fa3ec5e!8m2!3d21.0046708!4d79.0477332">https://www.google.com/maps/place/SVPCET</a>
+			
+			]]>
+	  </template>
+    </category>
+
+    <category>
+      <pattern>WHEN IS  NEXT GRADUATION CEREMONY</pattern>
+      <template>
+      	 Graduation Ceremony is in the first week of April 2020
+	  </template>
+    </category>
+
+     <category>
+      <pattern>WHEN IS NEXT ALUMNI MEET IN DELHI</pattern>
+      <template>
+      	Delhi Alumni meet is scheduled tentatively in the last week of Feb or first week of March 2020
+
+	  </template>
+    </category>
+
+     <category>
+      <pattern>WHEN IS NEXT ALUMNI MEET IN BANGLORE</pattern>
+      <template>
+      Banglore Alumni meet is scheduled tentatively in the last week of Feb or first week of March 2020
+
+
+	  </template>
+    </category>
+
+    <category>
+      <pattern>HOW TO REGISTER ON ALUMNI PORTAL</pattern>
+      <template>
+      To register yourself on the institute alumni portal follow the link : 
+
+      	<![CDATA[
+		<a target="_blank" href="https://techpallottinealumni.stvincentngp.edu.in/Profile/reglogin.aspx">http://techpallottinealumni.stvincentngp.edu.in/Profile/reglogin.aspx</a>	
+		]]>
+	  </template>
+    </category>
+
+     <category>
+      <pattern>WHAT IS THE PROCESS TO ISSUE A DEGREE</pattern>
+      <template>
+	 
+      	DOCUMNETS:
+		
+		1. 8th semester original marksheet and its photocopy.
+		2. Appointment letter hardcopy
+
+
+		CLEARANCE :
+		1. collect a clearance form from admin section
+		2. get a clearance from - your department, accounts, TnP and library section. 
+
+
+		DEGREE ISSUE:
+		1. Submit  the documents and the clearance form in admin section
+		2. receive the degree from admin section."
+	  </template>
+    </category>
+
+    <category>
+      <pattern>HOW TO SHARE THE ARTICLES FOR ALUMNI NEWSLETTER</pattern>
+      <template>
+
+      To share your testimonial to be incorporated in the newsletter you must share your article with your department co-ordinator:
+		ME: Prof. Homeshwar Nagpure
+		ETC: Prof. Binu Joy
+		CE: Prof. Komal Jaisinghani
+		IT: Manali Patki
+		EE : Prof. Dushant Khadse
+	  </template>
+    </category>
+
+    <category>
+      <pattern>COLLEGE TIMING</pattern>
+      <template>
+      	 9am to 4pm (Monday to Friday) and 9am to 12pm (Saturday)
+	  </template>
+    </category>
+
+    <category>
+      <pattern>WHO IS PRINCIPAL</pattern>
+      <template>
+      	 Dr. Surendra V. Gole
+	  </template>
+    </category>
+
+     <category>
+      <pattern>COLLEGE PRINCIPAL</pattern>
+      <template>
+      	 Dr. Surendra V. Gole
+	  </template>
+    </category>
+
+     <category>
+      <pattern>PRINCIPAL</pattern>
+      <template>
+      	 Dr. Surendra V. Gole
+	  </template>
+    </category>
+    
+     <category>
+      <pattern>FROM WHERE I CAN GET MY ORIGINAL MARKSHEET</pattern>
+      <template>
+      	 You can take all your original mark sheets from the
+			admin office in next academic year.
+      	 
+	  </template>
+    </category>
+
+
+     <category>
+      <pattern>WHERE CAN I PURCHASE COLLEGE PRACTICAL JOURNALS</pattern>
+      <template>
+      	A Xerox center and Stationary store is available
+		at GATE 01 of the institute .
+      	
+	  </template>
+    </category>
+	
+
+	
+    
+
+     <category>
+      <pattern>WHERE CAN I PURCHASE COLLEGE PRACTICAL JOURNALS</pattern>
+      <template>
+      	A Xerox center and Stationary store is available
+		at GATE 01 of the institute .
+      	
+	  </template>
+    </category>
+
+    <category>
+      <pattern>DO WE HAVE COMMON ROOM FOR GIRLS</pattern>
+      <template>
+      	Every Department is having a common room for
+        girls. The girls common room Is BG 08 In Academic
+        Block B.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern>DO WE HAVE COMMON ROOM FOR BOYS</pattern>
+      <template>
+      	Boys common room is BG 11 in Academic Block B.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern>WHOM SHOULD I CONTACT FOR ENQUIRY ABOUT POST GRADUATION</pattern>
+      <template>
+      	For any guidance on your career after graduation
+        you can consult your faculty members and also the Career
+        Guidance Cell for any assistance.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> POST GRADUATION ENQUIRY</pattern>
+      <template>
+      	For any guidance on your career after graduation
+        you can consult your faculty members and also the Career
+        Guidance Cell for any assistance.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern>WHOM TO CONTACT REGARDING BUS FACILITY</pattern>
+      <template>
+      	Mr. Nandu can be contacted for anything related to
+        Bus facilities.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> BUS FACILITY ENQUIRY</pattern>
+      <template>
+      	Mr. Nandu can be contacted for anything related to
+        Bus facilities.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> WHAT IS BOOK BANK</pattern>
+      <template>
+      	Book Bank facility is available in library in which a
+        set of books is given to the students which a student can
+        use for an academic year and has to return those to the
+        library.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> CAN I CHANGE BRANCH IN SECOND YEAR</pattern>
+      <template>
+      	To change your branch you should score well in
+        both 1st and 2nd semester of first year.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> FIRST AID FACILITY</pattern>
+      <template>
+      	Every department is having first aid facilities. You
+        can also visit the reception for First Aid. The Workshop is
+        also having a first aid.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> FREESHIP AND SCHOLARSHIP</pattern>
+      <template>
+      	You should visit Scholarship Section of Admin
+        Office for any information related to Scholarships.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> WHOM SHOULD I CONTACT FOR FREESHIP AND SCHOLARSHIP RELATED INFORMATION</pattern>
+      <template>
+      	You should visit Scholarship Section of Admin
+        Office for any information related to Scholarships.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> CULTURAL FEST OF THE COLLEGE</pattern>
+      <template>
+      	Yes, Insight-Cultural festival of the institute is
+        organized in the month of January every year.
+      	
+	  </template>
+    </category>
+	
+
+
+	<category>
+      <pattern> WHOM TO APPROACH FOR HOSTEL RELATED ISSUES</pattern>
+      <template>
+      	For any type of hostel issues, you can meet the
+        Hostel Manager or the Hostel warden.
+      	
+	  </template>
+    </category>
+	
+
+	<category>
+      <pattern> HOSTEL</pattern>
+      <template>
+      	For any type of hostel issues, you can meet the
+        Hostel Manager or the Hostel warden.
+      	
+	  </template>
+    </category>
+
+
+
+	</aiml>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
